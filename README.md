@@ -1,4 +1,4 @@
-# CLASS TASKS - CLASS 01
+# Weekly Project - WEEK 01
 
 Task guidelines for html task.
 
@@ -17,6 +17,10 @@ Task guidelines for html task.
 ## Overview of the Task
 
 The task is to design a simple documentation page according to the user story provided. A user story is an informal, natural language description of one or more features describing a website. User stories are often written from the perspective of an end user or user of a system.
+
+## Mockup Link
+
+You have to build a website similar to the mockup (https://codepen.io/freeCodeCamp/full/NdrKKL)
 
 ## Steps of User Story 
 

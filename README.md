@@ -2,7 +2,7 @@
 
 Task guidelines for html task.
 
-**Dated: 25th April 2020**
+**Dated: 27th April 2020**
 
 ## Objective
 > To design a basic technical documentation page.

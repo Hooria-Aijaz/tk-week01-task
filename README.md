@@ -20,7 +20,8 @@ The task is to design a simple documentation page according to the user story pr
 
 ## Mockup Link
 
-You have to build a website similar to the mockup (https://codepen.io/freeCodeCamp/full/NdrKKL)
+You have to build a website similar to the mockup (https://codepen.io/freeCodeCamp/full/NdrKKL). 
+To view the mockup image, scroll down to the bottom of the page.
 
 ## Steps of User Story 
 
@@ -64,5 +65,9 @@ You are provided with the user story below, carefully observe each step and star
 
 ##### User Story #13: 
 > When I click on a navbar element, the page should navigate to the corresponding section of the main-doc element (e.g If I click on a nav-link element that contains the text “Hello world”, the page navigates to a section element that has that id and contains the corresponding header.
+
+##### MOCKUP IMAGE
+
+![MOCKUP](mockup/mockup-week01.png)
 
 ###### GOOD LUCK!

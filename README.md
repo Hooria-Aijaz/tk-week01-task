@@ -1,72 +1,86 @@
 # Weekly Project - WEEK 01
 
-Task guidelines for html task.
+Task guidelines for first weekly project.
 
 **Dated: 27th April 2020**
+
+**Submission Deadline: 3rd May 2020**
+
+**Submission method**
+
+All of you are well aware now of how to use github, create your account on github if you have not yet created. Then you will make a repository for your first project and submit the github link of that repository on the submission date. Your projects will only be accepted and assessed if you send the github link of the repository containing your project.  
 
 ## Objective
 > To design a basic technical documentation page.
 
 ## Prerequisites 
 
-- HTML 
+### HTML 
+
 - DOM Tree
 - Semantic tags
 - Presentational tags
 
+### CSS
+
+- Basic style properties
+- Selectors
+- Color convention
+- Selectors
+- CSS Positioning
+
 ## Overview of the Task
 
-The task is to design a simple documentation page according to the user story provided. A user story is an informal, natural language description of one or more features describing a website. User stories are often written from the perspective of an end user or user of a system.
+The task is to design a simple documentation page according to the steps provided. You need to go through each step carefully and then design the website. Mockup of the website has been provided to you.
 
-## Mockup Link
+## Mockup Details
 
-You have to build a website similar to the mockup (https://codepen.io/freeCodeCamp/full/NdrKKL). 
-To view the mockup image, scroll down to the bottom of the page.
+You have to design a website similar to the mockup provided. Scroll down the page to see the mockup image of the website.
 
-## Steps of User Story 
+## Instructions and steps to design the website
 
-You are provided with the user story below, carefully observe each step and start building a documentation page.
+You are provided with the steps below, carefully observe each step and start building the documentation page.
 
-##### User Story #1: 
-> I can see a main element with a corresponding id=”main-doc”, which contains the page’s main content (technical documentation).
+##### Step #1: 
+> There should be a *main* element with a corresponding id="main-doc", which contains the page’s main content (technical documentation).
 
-##### User Story #2:  
-> Within the #main-doc element, I can see several section elements, each with a class of main-section. There should be a minimum of 5.
+##### Step #2:  
+> Within the #main-doc element, there should be several *section* elements, each with a class of *main-section*. There should be a minimum of 5 sections.
 
-##### User Story #3:  
-> The first element within each .main-section should be a header element which contains text that describes the topic of that section.
+##### Step #3:  
+> The first element within each .main-section should be a *header element* which should have text that describes the topic of that section.
 
-##### User Story #4: 
-> Each section element with the class of main-section should also have an id that corresponds with the text of each header contained within it. Any spaces should be replaced with underscores (e.g. The section that contains the header "JavaScript and Java" should have a corresponding id="JavaScript_and_Java").
+##### Step #4: 
+> Each section element with the class of *main-section* should also have an *id* that corresponds with the text of each header contained within it. All spaces should be replaced with underscores (e.g. The section that contains the header "JavaScript and Java" should have a corresponding id="JavaScript_and_Java").
 
-##### User Story #5:  
+##### Step #5:  
 > The .main-section elements should contain at least 10 p elements total (not each).
 
-##### User Story #6: 
-> The .main-section elements should contain at least 5 code elements total (not each).
+##### Step #6: 
+> The *.main-section* elements should contain at least 5 code elements total (not each).
 
-##### User Story #7: 
-> The .main-section elements should contain at least 5 li items total (not each).
+##### Step #7: 
+> The *.main-section* elements should contain at least 5 li items total (not each).
 
-##### User Story #8: 
-> I can see a nav element with a corresponding id="navbar". 
+##### Step #8: 
+> There should be a nav element with a corresponding *id="navbar"*. 
 
-##### User Story #9: 
+##### Step #9: 
 > The navbar element should contain one header element which contains text that describes the topic of the technical documentation.
 
-##### User Story #10: 
-> Additionally, the navbar should contain a link (a) elements with the class of nav-link. There should be one for every element with the class main-section.
+##### Step #10: 
+> Additionally, the navbar should contain a link element with a class of *nav-link*. There should be one for every element with the class *main-section*.
 
-##### User Story #11: 
+##### Step #11: 
 > The header element in the navbar must come before any link (a) elements in the navbar.
 
-##### User Story #12: 
-> Each element with the class of nav-link should contain text that corresponds to the header text within each section (e.g. if you have a “Hello world” section/header, your navbar should have an element which contains the text “Hello world”).
+##### Step #12: 
+> Each element with the class of *nav-link* should contain text that corresponds to the header text within each section (e.g. if you have a “Hello world” section/header, your navbar should have an element which contains the text “Hello world”).
 
-##### User Story #13: 
-> When I click on a navbar element, the page should navigate to the corresponding section of the main-doc element (e.g If I click on a nav-link element that contains the text “Hello world”, the page navigates to a section element that has that id and contains the corresponding header.
+##### Step #13: 
+> When you click on a navbar element, the page should navigate to the corresponding section of the main-doc element (e.g If you click on a nav-link element that contains the text “Hello world”, the page navigates to a section element that has that id and contains the corresponding header.
 
-##### MOCKUP IMAGE
+##### MOCKUP IMAGE ATTACHED BELOW
 
 ![MOCKUP](mockup/mockup-week01.png)
 

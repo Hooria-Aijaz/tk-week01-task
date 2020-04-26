@@ -80,8 +80,10 @@ You are provided with the steps below, carefully observe each step and start bui
 ##### Step #13: 
 > When you click on a navbar element, the page should navigate to the corresponding section of the main-doc element (e.g If you click on a nav-link element that contains the text “Hello world”, the page navigates to a section element that has that id and contains the corresponding header.
 
+###### GOOD LUCK!
+
 ##### MOCKUP IMAGE ATTACHED BELOW
 
 ![MOCKUP](mockup/mockup-week01.png)
 
-###### GOOD LUCK!
+

@@ -29,6 +29,8 @@ All of you are well aware now of how to use github, create your account on githu
 - Selectors
 - CSS Positioning
 
+You have studied the offline lessons given to you and have taken quizzes to self-assess yourself.
+
 ## Overview of the Task
 
 The task is to design a simple documentation page according to the steps provided. You need to go through each step carefully and then design the website. Mockup of the website has been provided to you.

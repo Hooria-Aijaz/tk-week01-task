@@ -86,6 +86,11 @@ You are provided with the steps below, carefully observe each step and start bui
 
 ##### MOCKUP IMAGE ATTACHED BELOW
 
+(https://docs.google.com/document/d/1Vjnb9M-FWRaEr-ireC22sB1GyL42YXfszLRzkS_Ad18/edit?usp=sharing)
+
+##### MOCKUP IMAGE ATTACHED BELOW
+
 ![MOCKUP](mockup/mockup-week01.png)
+
 
 

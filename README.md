@@ -84,7 +84,7 @@ You are provided with the steps below, carefully observe each step and start bui
 
 ###### GOOD LUCK!
 
-##### MOCKUP IMAGE ATTACHED BELOW
+##### MOCKUP CONTENT LINK ATTACHED BELOW
 
 (https://docs.google.com/document/d/1Vjnb9M-FWRaEr-ireC22sB1GyL42YXfszLRzkS_Ad18/edit?usp=sharing)
 
